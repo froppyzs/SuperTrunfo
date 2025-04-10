@@ -9,3 +9,5 @@ Trata-se de um trabalho acadêmico simples da reprodução do jogo Super Trunfo 
 
 
 _Este é apenas um projeto introdutório! Então não apresenta o jogo completo._
+
+Nível do desafio: Mestre.
